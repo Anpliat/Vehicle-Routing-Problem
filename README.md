@@ -17,10 +17,10 @@ Generate a set of routes, one route for every truck, according to the following 
 * The time required to unpack all the products to each customer is 15 minutes.
 * The total time duration limit of each route is 3.5 hours that corresponds to 210 minutes by multiplying with 60.
 
-
-## Objective Function: Minimization of the Total Route Cost
-
 ## Model Structure
+
+### Objective Function: Minimization of the Total Route Cost
+
 Classes created to initialize the model variables:
 ### Model class
 * allNodes: The list with all nodes-customers and depot included.
@@ -49,6 +49,8 @@ Note: Inside the model class a build-model function is defined which creates the
 * truck: The list of trucks which include all the route and truck features.
 * load: Total load of the route. 
 * timeload: Total time of the route.
+
+
 
 
 
