@@ -9,7 +9,7 @@ Each route is an open route, which starts from the main warehouse and visits the
 * 15 trucks with a maximum capacity of 1200 kg
 
 ### Aim of VRP
-Generate a set of routes, one route for every truck according to the following constraints:
+Generate a set of routes, one route for every truck, according to the following constraints:
 * The total route cost of all routes is minimized.
 * Each customer is served once by exactly one truck without order splitting.
 * The total demand of the customers visited by a route does not exceed the capacity of the truck.
