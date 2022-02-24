@@ -19,11 +19,14 @@ Generate a set of routes, one route for every truck, according to the following 
 
 
 ## Methodology
-* Use Nearest Neighbor algorithm to construct initial routes
-* Design Local Search Algorithm (Operator: Relocation)
-* Design VND algorithm (Operators: Relocation, Swap Move and Two-opt)
+🠊 Use Nearest Neighbor algorithm to construct initial routes
 
-### Objective Function: Minimization of the Total Route Cost
+🠊 Design Local Search Algorithm (Operator: Relocation)
+
+🠊 Design VND algorithm (Operators: Relocation, Swap Move and Two-opt)
+
+
+**Objective Function:** Minimization of the Total Route Cost
 
 ## Model Structure
 
