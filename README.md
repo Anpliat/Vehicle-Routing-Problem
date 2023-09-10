@@ -1,7 +1,5 @@
 # Vehicle-Routing-Problem (VRP)
 
-<div style="text-align: justify">
-
 ### Concept
 A company's central warehouse receives numerous orders from 100 customers. The company's trucks are housed in the central warehouse. The purpose is to generate a route for each vehicle with the aim of serving all customers. The construction of the route is subject to certain constraints. 
 
@@ -9,10 +7,6 @@ Each route is an open route, which starts from the main warehouse and visits the
 
 * 15 trucks with a maximum capacity of 1500 kg
 * 15 trucks with a maximum capacity of 1200 kg
-
-
-
-</div>
 
 ### Aim of VRP
 Generate a set of routes, one route for every truck, according to the following constraints:
